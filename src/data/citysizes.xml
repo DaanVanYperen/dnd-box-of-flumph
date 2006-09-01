@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<citysizes>
+	<citysize>
+		<name>hamlet</name>
+		<notableCitizens>10</notableCitizens>
+		<citizens>10</citizens>
+	</citysize>
+	<citysize>
+		<name>village</name>
+		<notableCitizens>25</notableCitizens>
+		<citizens>500</citizens>
+	</citysize>
+	<citysize>
+		<name>town</name>
+		<notableCitizens>50</notableCitizens>
+		<citizens>4000</citizens>
+	</citysize>
+	<citysize>
+		<name>city</name>
+		<notableCitizens>100</notableCitizens>
+		<citizens>10000</citizens>
+	</citysize>
+	<citysize>
+		<name>metropolis</name>
+		<notableCitizens>400</notableCitizens>
+		<citizens>50000</citizens>
+	</citysize>
+</citysizes>

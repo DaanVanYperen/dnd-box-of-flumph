@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<industries>
+<industry>
+	<name>Food Providers</name>
+	<neededPerCitizen>0,1</neededPerCitizen>
+	<minimumPerCity>2</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>baker</occupation>
+		<occupation>butcher</occupation>
+		<occupation>beekeeper</occupation>
+		<occupation>beerbrewer</occupation>
+		<occupation>alewife</occupation>
+		<occupation>beer seller</occupation>
+		<occupation>costermonger</occupation>
+		<occupation>fishmonger</occupation>
+		<occupation>fruitier</occupation>
+		<occupation>groce</occupation>
+		<occupation>spice merchant</occupation>
+		<occupation>spicer</occupation>
+		<occupation>waterseller</occupation>
+		<occupation>wine seller</occupation>
+		<occupation>farmer</occupation>
+		<occupation>fisherman</occupation>
+		<occupation>fowle</occupation>
+		<occupation>hunter</occupation>
+		<occupation>huntsman</occupation>
+		<occupation>oyster raker</occupation>
+		<occupation>shepherd</occupation>
+		<occupation>swineherd</occupation>
+		<occupation>thresher</occupation>
+		<occupation>brewer</occupation>
+		<occupation>cheesemaker</occupation>
+		<occupation>water carrier</occupation>
+		<occupation>rectifier</occupation>
+		<occupation>saltboiler</occupation>
+		<occupation>salter</occupation>
+
+	</occupations>	
+</industry>
+<industry>
+	<name>Council</name>
+	<neededPerCitizen>0,05</neededPerCitizen>
+	<minimumPerCity>1</minimumPerCity>
+	<badge>Leader</badge>
+	<occupations>
+		<occupation>councilmember</occupation>
+		<occupation>chancellor</occupation>
+		<occupation>diplomat</occupation>
+		<occupation>sergeant</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Royalty</name>
+	<neededPerCitizen>0,001</neededPerCitizen>
+	<minimumPerCity>0</minimumPerCity>
+	<badge>Royalty</badge>
+	<occupations>
+		<occupation>emperor/empress</occupation>
+		<occupation>king/queen</occupation>
+		<occupation>lady/lord</occupation>
+		<occupation>nobleman</occupation>
+		<occupation>prince/princess</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Arts and Crafts</name>
+	<neededPerCitizen>0,003</neededPerCitizen>
+	<minimumPerCity>0</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>drummer</occupation>
+		<occupation>bard</occupation>
+		<occupation>barker</occupation>
+		<occupation>fiddler</occupation>
+		<occupation>fool</occupation>
+		<occupation>fresco painter</occupation>
+		<occupation>glasspainter</occupation>
+		<occupation>harper</occupation>
+		<occupation>illuminator</occupation>
+		<occupation>jester</occupation>
+		<occupation>limner</occupation>
+		<occupation>lutenist</occupation>
+		<occupation>musician</occupation>
+		<occupation>organist</occupation>
+		<occupation>painter</occupation>
+		<occupation>piper</occupation>
+		<occupation>player</occupation>
+		<occupation>playwright</occupation>
+		<occupation>poet</occupation>
+		<occupation>sculptor</occupation>
+		<occupation>singer</occupation>
+		<occupation>troubadour</occupation>
+		<occupation>tumbler</occupation>
+		<occupation>writer</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Other</name>
+	<neededPerCitizen>0,5</neededPerCitizen>
+	<minimumPerCity>0</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>engineer</occupation>
+		<occupation>apothecary (a preparer and merchant for drugs and medicines)</occupation>
+		<occupation>banker (one who works in a bank or owns a bank)</occupation>
+		<occupation>chapman (travelling merchant)</occupation>
+		<occupation>glass seller (one who sells glass)</occupation>
+		<occupation>harberdasher (seller of mens clothing)</occupation>
+		<occupation>hay merchant (one who sells hay/straw for horses)</occupation>
+		<occupation>ironmonger (one who sells things made of iron)</occupation>
+		<occupation>mercer (one who deals in textiles/woven or knitted cloth)</occupation>
+		<occupation>merchant (one who sells something)</occupation>
+		<occupation>oil merchant (one who sells oil for lamps</occupation>
+		<occupation>old-clothes dealer (one who sells used clothes)</occupation>
+		<occupation>peddler (door to door salesman)</occupation>
+		<occupation>pie seller (one who sells pies)</occupation>
+		<occupation>poulter (seller of poultry)</occupation>
+		<occupation>falconer (breeds</occupation>
+		<occupation>forester (game warden or forest ranger)</occupation>
+		<occupation>gamekeeper (game warden or forest ranger)</occupation>
+		<occupation>goatherd (one who herds</occupation>
+		<occupation>hawker (breeds</occupation>
+		<occupation>horse trainer (trainer of horses)</occupation>
+		<occupation>master of hounds (one who controls or handles the hounds used in a hunt)</occupation>
+		<occupation>molecatcher (catcher of small burrowing mammals)</occupation>
+		<occupation>ostler (cares for horses)</occupation>
+		<occupation>parker (caretaker of a park)</occupation>
+		<occupation>plowman (one who uses a plow on a farm)</occupation>
+		<occupation>rat catcher (one who catches rats)</occupation>
+		<occupation>reaper (one who reaps</occupation>
+		<occupation>sheepshearer (one who clips wool from sheep)</occupation>
+		<occupation>skinner (onw who skins animals for tanning</occupation>
+		<occupation>wood seller(one who sells wood)</occupation>
+		<occupation>tillerman (one who uses a bar or handle to steer a boat by the rudder)</occupation>
+		<occupation>trapper (one who uses or catches animals with traps)</occupation>
+		<occupation>woolcomber (one who prepares wool from sheep for use)</occupation>
+		<occupation>woolman (sorts wool into differing grades)</occupation>
+		<occupation>bargeman (one who operates or works on a flat bottomed boat)</occupation>
+		<occupation>boatman (one who works on a small boat)</occupation>
+		<occupation>canaller (canal boat worker)</occupation>
+		<occupation>ferryman (one who operates a ferry crossing rivers or lakes)</occupation>
+		<occupation>hobbler (boat tower on a river or canal)</occupation>
+		<occupation>lighter man (worker on a flat-bottomed boat)</occupation>
+		<occupation>mariner (sailor)</occupation>
+		<occupation>navigator (use who navigates by using the stars</occupation>
+		<occupation>pilot (a person who directs ships into and out of a harbor through difficult waters)</occupation>
+		<occupation>sailor (one who works on a sailing ship)</occupation>
+		<occupation>sea captain (the captain of a sea going boat)</occupation>
+		<occupation>ships captain (the captain of a ship)</occupation>
+		<occupation>shipchandler (ship provisioner)</occupation>
+		<occupation>waterman (riverboat sailor)</occupation>
+		<occupation>crofter (tenant of a small piece of land)</occupation>
+		<occupation>hermit (one who lives alone in a secluded spot; a recluse)</occupation>
+		<occupation>housewife (a woman who tends to the home)</occupation>
+		<occupation>landlord (one who owns property or properties and collects rent)</occupation>
+		<occupation>palmer (one who had been</occupation>
+		<occupation>pilgrim (one who travels to a shrine or temple as a religious act)</occupation>
+		<occupation>spinster (an unmarried woman</occupation>
+		<occupation>shoemaker (one who makes and repairs shoes)</occupation>
+		<occupation>furrier (one who makes and repairs goods made of furs (esp. clothes))</occupation>
+		<occupation>tailor (one who makes and repairs clothing)</occupation>
+		<occupation>jeweler (maker of jewelry)</occupation>
+		<occupation>pastrycook (baker specializing in pastries)</occupation>
+		<occupation>mason (bricklayer)</occupation>
+		<occupation>carpenter (one who constructs things from wood)</occupation>
+		<occupation>weaver (weaver of cloth)</occupation>
+		<occupation>chandler (one who makes candles)</occupation>
+		<occupation>cooper (one who makes and repairs barrels and tubs)</occupation>
+		<occupation>scabbard maker (maker of scabbards)</occupation>
+		<occupation>hatmaker (maker of hats)</occupation>
+		<occupation>saddler (maker of saddles)</occupation>
+		<occupation>purse maker (maker of purses)</occupation>
+		<occupation>buckle maker (maker of buckles)</occupation>
+		<occupation>blacksmith (one who works with iron to form metal implements: esp farm tools.)</occupation>
+		<occupation>roofer (one who makes and repairs roofs)</occupation>
+		<occupation>locksmith (one who makes and repairs locks)</occupation>
+		<occupation>ropemaker (maker of rope)</occupation>
+		<occupation>tanner (preparer of leater)</occupation>
+		<occupation>rugmaker (maker of rugs)</occupation>
+		<occupation>harness maker (maker of harnesses)</occupation>
+		<occupation>bleacher (one who makes cloth</occupation>
+		<occupation>cutler (one who makes and repairs cutlery)</occupation>
+		<occupation>glover (a glovemaker)</occupation>
+		<occupation>architect (a designer of buildings and other constructions)</occupation>
+		<occupation>arkwright (a maker of "arks" -- wooden chests or large coffers)</occupation>
+		<occupation>armorer (one who crafts armor)</occupation>
+		<occupation>balancemaker (one who makes balances for measuring)</occupation>
+		<occupation>basketmaker (one who makes baskets)</occupation>
+		<occupation>bellfounder (one who casts/makes large bells such as in a church)</occupation>
+		<occupation>bellmaker (of small bells that go on sleighs and clothing</occupation>
+		<occupation>blockcutter (for block printing)</occupation>
+		<occupation>bonecarver (one who carves bone; an artist)</occupation>
+		<occupation>bookbinder (one who binds books with covers)</occupation>
+		<occupation>bookprinter (one who prints books)</occupation>
+		<occupation>bowyer (a maker of bows)</occupation>
+		<occupation>fletcher (a maker of arrows)</occupation>
+		<occupation>brazier (makes brassware)</occupation>
+		<occupation>bricker (brick baker</occupation>
+		<occupation>bricklayer (one who lays brick</occupation>
+		<occupation>broderer (one who embroiders)</occupation>
+		<occupation>bronzefounder </occupation>
+		<occupation>brushbinder </occupation>
+		<occupation>builder (one who builds buildings)</occupation>
+		<occupation>buttonmaker (maker of buttons for clothing</occupation>
+		<occupation>cabinetmaker (maker of cabinets)</occupation>
+		<occupation>cardmaker (maker of cards</occupation>
+		<occupation>cartwright (maker of wheels</occupation>
+		<occupation>carver (one who carves statues or designs)</occupation>
+		<occupation>chainmaker (one who makes chains)</occupation>
+		<occupation>charcoalburner (one who makes charcoal for fuel</occupation>
+		<occupation>clockmaker (one who makes clocks; may not be available in all realms)</occupation>
+		<occupation>clothier (one who deals in cloth or clothing)</occupation>
+		<occupation>cobbler (one who makes or mends shoes)</occupation>
+		<occupation>coiner (one who stamps metals into the shapes of coins)</occupation>
+		<occupation>combmaker (maker of combs</occupation>
+		<occupation>compasssmith (maker of compasses)</occupation>
+		<occupation>confectioner (one who makes or sells candy or other confections)</occupation>
+		<occupation>coppersmith (one who makes things from copper)</occupation>
+		<occupation>cordwainer (A worker in cordwain</occupation>
+		<occupation>delver (ditchdigger)</occupation>
+
+		<occupation>drycooper </occupation>
+		<occupation>dyer (one who uses dye to color materials such as cloth</occupation>
+		<occupation>embroiderer (one who embroiders cloth or similar material)</occupation>
+		<occupation>engraver (for printing</occupation>
+		<occupation>fabricshearer (trims the nap and makes pleats for customers)</occupation>
+		<occupation>feltmaker (one who makes felt from wool</occupation>
+		<occupation>founder (one who works where metal is cast; one who works in a foundry)</occupation>
+		<occupation>furniture maker (one who makes furniture)</occupation>
+		<occupation>gemcutter (one who cuts gems</occupation>
+		<occupation>girdler (leather worker who made girdles and belts</occupation>
+		<occupation>glassblower (one who blows molten glass into bottles</occupation>
+		<occupation>glazier (one whose work is in fitting glass into windows)</occupation>
+		<occupation>goldbeater (makes gold leaf)</occupation>
+		<occupation>goldsmith (an artisan who makes and repairs items of gold)</occupation>
+		<occupation>gravedigger (one who digs graves)</occupation>
+		<occupation>grinder (knife sharpener)</occupation>
+		<occupation>gunsmith (one who makes and repairs guns; arquebuses if allowed)</occupation>
+		<occupation>gunstocker (one who deals in guns; arquebuses if allowed)</occupation>
+		<occupation>hatter (one who makes and repairs hats)</occupation>
+		<occupation>horner (craftsman who works in horn -- spoons</occupation>
+		<occupation>joiner (skilled carpenter)</occupation>
+		<occupation>knifesmith (one who smiths knives)</occupation>
+		<occupation>lacemaker (one who makes lace from cloth or thread)</occupation>
+		<occupation>lanternmaker (maker of lanterns)</occupation>
+		<occupation>lapidary (worker with precious stones -- usually other than diamonds)</occupation>
+		<occupation>leadworker (one who makes lead objects)</occupation>
+		<occupation>lensgrinder (shaper of glass for use in telescopes</occupation>
+		<occupation>linenspinner (maker of linen cloth)</occupation>
+		<occupation>lorimer (maker of horse gear)</occupation>
+		<occupation>lutemaker (maker of lutes</occupation>
+		<occupation>mailmaker </occupation>
+		<occupation>mapmaker (also known as cartographer)</occupation>
+		<occupation>miner (one who digs in a mine)</occupation>
+		<occupation>mintmaster (coin stamper)</occupation>
+		<occupation>mirrorer (one who makes mirrors?)</occupation>
+		<occupation>nailmaker (maker of nails)</occupation>
+		<occupation>nedeller (maker of needles)</occupation>
+		<occupation>netmaker </occupation>
+		<occupation>oilmaker </occupation>
+		<occupation>papermaker </occupation>
+		<occupation>parchmenter </occupation>
+		<occupation>pattenmaker </occupation>
+		<occupation>pewterer </occupation>
+		<occupation>pinmaker </occupation>
+		<occupation>plasterer </occupation>
+		<occupation>plattner (beat out sheets of metal)</occupation>
+		<occupation>plumber </occupation>
+		<occupation>pot mender </occupation>
+		<occupation>potter </occupation>
+		<occupation>printer </occupation>
+		<occupation>quarryman </occupation>
+		<occupation>redsmith (brass)</occupation>
+		<occupation>roper (maker of ropes</occupation>
+		<occupation>sailmaker </occupation>
+		<occupation>sawyer (saws timbers to boards)</occupation>
+		<occupation>scythesmith </occupation>
+		<occupation>seamstress </occupation>
+		<occupation>shingler (wooden roof tiler)</occupation>
+		<occupation>shipwright </occupation>
+		<occupation>silversmith </occupation>
+		<occupation>smelter </occupation>
+		<occupation>smith (blacksmith)</occupation>
+		<occupation>spectaclesmaker </occupation>
+		<occupation>spurrer (maker of spurs)</occupation>
+		<occupation>stonecarver </occupation>
+		<occupation>stonecutter </occupation>
+		<occupation>swordsmith </occupation>
+		<occupation>tallowchandler </occupation>
+		<occupation>tapestrymaker </occupation>
+		<occupation>thatcher </occupation>
+		<occupation>thonger (maker of leather straps or laces)</occupation>
+		<occupation>threadmaker </occupation>
+		<occupation>tinker </occupation>
+		<occupation>tinsmith </occupation>
+		<occupation>turner (lathe worker)</occupation>
+		<occupation>typefounder </occupation>
+		<occupation>vintner </occupation>
+		<occupation>waxchandler </occupation>
+		<occupation>wheelwright </occupation>
+		<occupation>wiredrawer </occupation>
+		<occupation>woodcarver </occupation>
+		<occupation>woodcutter </occupation>
+		<occupation>woodturner </occupation>
+		<occupation>maidservant </occupation>
+		<occupation>barber </occupation>
+
+		<occupation>restaurateur (one who owns or runs a restaurant)</occupation>
+		<occupation>laundress (also known as lavendar</occupation>
+		<occupation>porter (one who carries burdens)</occupation>
+		<occupation>doctor </occupation>
+		<occupation>bather (owner of a bath)</occupation>
+		<occupation>copyist (one who copies books and documents -- not all of them can read)</occupation>
+		<occupation>attendent </occupation>
+		<occupation>bagger </occupation>
+		<occupation>barrister </occupation>
+		<occupation>bath attendent </occupation>
+		<occupation>bather (owner of a bath)</occupation>
+		<occupation>bodyservant </occupation>
+		<occupation>butler </occupation>
+		<occupation>cartman (one who drives a vehicle for transporting goods)</occupation>
+		<occupation>carter </occupation>
+		<occupation>cartier </occupation>
+		<occupation>chamberlain </occupation>
+		<occupation>chimney sweep </occupation>
+		<occupation>clerk</occupation>
+		<occupation>cook</occupation>
+		<occupation>dairymaid</occupation>
+		<occupation>dentist</occupation>
+		<occupation>dog trainer</occupation>
+		<occupation>drayman (cart driver)</occupation>
+		<occupation>dung carter</occupation>
+		<occupation>executioner</occupation>
+		<occupation>farrier</occupation>
+		<occupation>groom</occupation>
+		<occupation>harlot (vagabond</occupation>
+		<occupation>herald</occupation>
+		<occupation>horseleech (veterinarian</occupation>
+		<occupation>lawyer</occupation>
+		<occupation>link boy (boy who will carry a torch to guide people through the night)</occupation>
+		<occupation>link man (like a link boy</occupation>
+
+		<occupation>maid</occupation>
+		<occupation>midwife (humorously known as a babycatcher)</occupation>
+		<occupation>miller</occupation>
+		<occupation>nurse</occupation>
+		<occupation>panter (keeper of the pantry)</occupation>
+		<occupation>paperer (needlemaking industry -- inserted needles into paper to prepare for selling)</occupation>
+		<occupation>pavyler (put up pavilions/tents)</occupation>
+		<occupation>potboy (cleans out chamber pots)</occupation>
+		<occupation>privycleaner</occupation>
+		<occupation>procurator (or proctor</occupation>
+		<occupation>prostitute</occupation>
+		<occupation>quartermaster</occupation>
+		<occupation>ragpicker (sorts through leftover rags</occupation>
+		<occupation>raker (street sanitation worker)</occupation>
+		<occupation>scullion</occupation>
+		<occupation>senaschal (senior steward)</occupation>
+		<occupation>solicitor (lawyer or barrister)</occupation>
+		<occupation>stillroom maid</occupation>
+		<occupation>surgeon</occupation>
+		<occupation>tapster (bartender/barmaid)</occupation>
+		<occupation>wagoner (wagon or cart driver)</occupation>
+		<occupation>weeper</occupation>
+		<occupation>wetnurse</occupation>
+		<occupation>basinbeater</occupation>
+		<occupation>bearleader</occupation>
+		<occupation>beguine</occupation>
+		<occupation>belter</occupation>
+		<occupation>bodger</occupation>
+		<occupation>buffoon</occupation>
+		<occupation>canon</occupation>
+		<occupation>cantor</occupation>
+		<occupation>ditcher</occupation>
+		<occupation>diver</occupation>
+		<occupation>draper</occupation>
+		<occupation>famulus</occupation>
+		<occupation>fool for money</occupation>
+		<occupation>gardner (one who gardens)</occupation>
+		<occupation>hayward (fence viewer)</occupation>
+		<occupation>master of revels</occupation>
+		<occupation>merchant taylor</occupation>
+		<occupation>milliner</occupation>
+		<occupation>mummer</occupation>
+		<occupation>nailer </occupation>
+		<occupation>nakerer</occupation>
+		<occupation>pavior</occupation>
+		<occupation>pissprophet</occupation>
+		<occupation>rivener</occupation>
+		<occupation>sacristian</occupation>
+		<occupation>shrimper</occupation>
+		<occupation>siever</occupation>
+		<occupation>silkwoman</occupation>
+		<occupation>stainer</occupation>
+		<occupation>stewsman</occupation>
+		<occupation>summoner</occupation>
+		<occupation>teamster carpenter</occupation>
+		<occupation>tentsman</occupation>
+		<occupation>terrazo grinder/mosaic layer</occupation>
+		<occupation>thimbler</occupation>
+		<occupation>tyler</occupation>
+		<occupation>upholder</occupation>
+		<occupation>userer</occupation>
+		<occupation>waferer</occupation>
+		<occupation>wattler</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Religion</name>
+	<neededPerCitizen>0,07</neededPerCitizen>
+	<minimumPerCity>1</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>abbes</occupation>
+		<occupation>abbot</occupation>
+		<occupation>archbishop</occupation>
+		<occupation>beadle</occupation>
+		<occupation>bishop</occupation>
+		<occupation>cardinal</occupation>
+		<occupation>chantry priest</occupation>
+		<occupation>chaplain</occupation>
+		<occupation>friar</occupation>
+		<occupation>monk</occupation>
+		<occupation>nun</occupation>
+		<occupation>pardoner</occupation>
+		<occupation>parish priest</occupation>
+		<occupation>pope</occupation>
+		<occupation>priest</occupation>
+		<occupation>church warden</occupation>
+		<occupation>sexton</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Sages</name>
+	<neededPerCitizen>0,01</neededPerCitizen>
+	<minimumPerCity>0</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>theologian</occupation>
+		<occupation>alchemist (a medieval chemist)</occupation>
+		<occupation>astrologer (one who studies the stars</occupation>
+		<occupation>astronomer (one who studies the stars</occupation>
+		<occupation>dean (chief of 10 monks</occupation>
+		<occupation>librarian (one who works in a library)</occupation>
+		<occupation>mathematician (one who studies and practices mathematics)</occupation>
+		<occupation>philosopher (one who lives by or expounds a philosophy)</occupation>
+		<occupation>professor (a college or university teacher)</occupation>
+		<occupation>scholar (a learned or very well educated person)</occupation>
+		<occupation>scrivener (one who scribes)</occupation>
+		<occupation>tutor (a private teacher)</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Lodging</name>
+	<neededPerCitizen>0,03</neededPerCitizen>
+	<minimumPerCity>1</minimumPerCity>
+	<badge>Innkeep</badge>
+	<occupations>
+		<occupation>innkeeper</occupation>
+		<occupation>taverner</occupation>
+	</occupations>	
+</industry>
+
+<industry>
+	<name>Crime</name>
+	<neededPerCitizen>0,01</neededPerCitizen>
+	<minimumPerCity>0</minimumPerCity>
+	<badge></badge>
+	<occupations>
+		<occupation>spy</occupation>
+		<occupation>fence</occupation>
+		<occupation>burglar</occupation>
+		<occupation>outlaw</occupation>
+		<occupation>pickpocket</occupation>
+		<occupation>poacher</occupation>
+	</occupations>	
+</industry>
+<industry>
+	<name>Guard</name>
+	<neededPerCitizen>0,03</neededPerCitizen>
+	<minimumPerCity>1</minimumPerCity>
+	<badge>Law</badge>
+	<occupations>
+		<occupation>bailiff</occupation>
+		<occupation>chancellor</occupation>
+		<occupation>constable</occupation>
+		<occupation>jailer</occupation>
+		<occupation>judge</occupation>
+		<occupation>knight</occupation>
+		<occupation>sherrif</occupation>
+		<occupation>watchman</occupation>
+		<occupation>archer</occupation>
+		<occupation>bowman</occupation>
+		<occupation>cannoneer</occupation>
+		<occupation>crossbowman</occupation>
+		<occupation>guardsman</occupation>
+		<occupation>halberdier</occupation>
+		<occupation>mercenary</occupation>
+		<occupation>pikeman</occupation>
+		<occupation>pioneer</occupation>
+		<occupation>sapper</occupation>
+		<occupation>scout</occupation>
+		<occupation>siege engineer</occupation>
+		<occupation>sergeant-at-arms</occupation>
+		<occupation>spearman</occupation>
+	</occupations>	
+</industry>
+</industries>
